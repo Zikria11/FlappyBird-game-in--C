@@ -49,6 +49,10 @@ g++ main.cpp -o flappybird.exe -lraylib -lopengl32 -lgdi32 -lwinmm
 <img width="806" height="634" alt="image" src="https://github.com/user-attachments/assets/0ba1e020-0907-4ec7-bf5a-41f74386b453" />
 
 
+
+
+
+
 📜 License
 This project is licensed under the MIT License.
 You are free to use, modify, and distribute it.
