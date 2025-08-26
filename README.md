@@ -53,11 +53,11 @@ g++ main.cpp -o flappybird.exe -lraylib -lopengl32 -lgdi32 -lwinmm
 
 
 
-📜 License
+## 📜 License
 This project is licensed under the MIT License.
 You are free to use, modify, and distribute it.
 
-👨‍💻 Author
+## 👨‍💻 Author
 Zikria Akhtar
 
 GitHub: <link src="www.github.com/Zikria11"></link>
